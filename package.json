@@ -198,7 +198,7 @@
     "react-deep-force-update": "2.1.1",
     "react-dom": "16.2.1",
     "react-redux": "5.0.7",
-    "recast": "0.13.0",
+    "recast": "0.23.0",
     "redux": "3.7.2",
     "redux-thunk": "2.2.0",
     "reselect": "3.0.1",
